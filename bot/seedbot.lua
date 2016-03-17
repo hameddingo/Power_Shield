@@ -248,19 +248,19 @@ function create_config( )
     "leave_ban",
     "admin"
     },
-    sudo_users = {140925196,tonumber(our_id)},--Sudo users
+    sudo_users = {138012635,114671225,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[UB Helper 1/2
+    about_text = [[Shield Power 1/2
 An advance Administration bot based on Teleseed/telegram-bot 
 
-@CIA_EMC_besik ([Ss]udo)
+@KinG_SuPeR_AdMiN_SHIELD ([Ss]udo)
 
 tnks to my friends
 
 
 Our channels
-👑 @UB_CH 👑 (Admin : @Yv_ADMIN_5_BLH_vY )
+👑 @tel_shield 👑 (Admin : @KinG_SuPeR_AdMiN_SHIELD )
 yon.ir/wRZ8
 ]],
     help_text_realm = [[
