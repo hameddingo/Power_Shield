@@ -261,7 +261,7 @@ tnks to my friends
 
 Our channels
 👑 @tel_shield 👑 (Admin : @KinG_SuPeR_AdMiN_SHIELD )
-yon.ir/wRZ8
+Http://8pic.ir/images/s5k8nijzbnny3nqrccee.jpg
 ]],
     help_text_realm = [[
 Realm Commands:
