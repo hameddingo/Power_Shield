@@ -257,7 +257,7 @@ An advance Administration bot based on Teleseed/telegram-bot
 @KinG_SuPeR_AdMiN_SHIELD ([Ss]udo)
 
 tnks to my friends
-
+@WoW_admin_sheild_WoW
 
 Our channels
 👑 @tel_shield 👑 (Admin : @KinG_SuPeR_AdMiN_SHIELD )
@@ -399,6 +399,8 @@ Commands list :
 
 !banlist فهرست افراد مسدود شده
 قبل از دادن دستور حتما از / یا ! استفاده کنید
+〰〰〰〰〰〰〰〰〰〰〰
+🇸 🇭 🇮 🇪 🇱 🇩 ™
 
 ]]
   }
